@@ -14,11 +14,11 @@ This repo is used for backup.
 
 2. Enable it via 
 
-   Safari -> Preference -> extension -> uBlacklist (macOS )
+   Safari -> Preference -> extension -> uBlacklist  (macOS )
 
-   Safari -> manage extension -> uBlacklist
+   Safari -> manage extension -> uBlacklist (iOS )
 
-3. Subscribe the follow link
+3. Subscribe the link [here](https://raw.githubusercontent.com/moziar/enBrowse/main/blacklist.txt)
 
 
 
