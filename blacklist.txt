@@ -1,2 +1,5 @@
 *://*.jd.com/*
 *://*.aaaa1314.com/*
+*://*.xitongcity.com/*
+*://*.gpsmap.cc/*
+*://*.jd.com/*
